@@ -23,7 +23,7 @@ struct ContentView: View {
                     .aspectRatio(contentMode: .fit)
                     .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 Button("Click to learn about me!") {
-                    aboutMe = "I am a rising sophomore at Lexington High. I love to dance and I love to crochet! I am creative and carefree! I have a big sweet tooth, so I bake a ton!"
+                    aboutMe = "I am a rising sophomore at Lexington High School. I love to dance and I love to crochet! I am creative and carefree! I have a big sweet tooth, so I bake a ton!"
                 }
                 .padding(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
                 .font(/*@START_MENU_TOKEN@*/.title2/*@END_MENU_TOKEN@*/)
